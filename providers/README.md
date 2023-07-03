@@ -1,0 +1,1 @@
+- in this dir the modals, toast and the theme are available thru out our app, so its better to organize this way as these are reusable globally
