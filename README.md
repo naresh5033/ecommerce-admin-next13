@@ -3,6 +3,27 @@
 - its a Ecommerce website with the store and the admin Cms to manage the store, and stripe payment integration.f 
 - its a Next js application, with taiwind css, prisma, mysql
 
+# Key Features:
+
+- We will be using Shadcn UI for the Admin!
+- Our admin dashboard is going to serve as both CMS, Admin and API!
+- we will be able to control mulitple vendors / stores through this single CMS! (For example we can have a "Shoe store" and a "Laptop store" and a "Suit store", and our CMS will generate API routes for all of those individually!)
+- we will be able to create, update and delete categories!
+- we will be able to create, update and delete products!
+- we will be able to upload multiple images for products, and change them whenever we want!
+- we will be able to create, update and delete filters such as "Color" and "Size", and then match them in the "Product" creation form.
+- we will be able to create, update and delete "Billboards" which are these big texts on top of the page. we will be able to attach them to a single category, or use them standalone (Our Admin generates API for all of those cases!)
+- we will be able to Search through all categories, products, sizes, colors, billboards with included pagination!
+- we will be able to control which products are "featured" so they show on the homepage!
+- we will be able to see wer orders, sales, etc.
+- we will be able to see graphs of wer revenue etc.
+- we will learn Clerk Authentication!
+- Order creation
+- Stripe checkout
+- Stripe webhooks
+- MySQL + Prisma + PlanetScale
+
+
 # admin CMS
 
 - the admin cms has the lot of functionalities, we can add the product or create a new categories add images, and make then appear on the feature page or if its our of stock can add em to the archieve,
